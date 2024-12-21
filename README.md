@@ -23,3 +23,6 @@ Je fournis ESP FLASH TOOL DOWNLOAD TOOL V3.9.7 pour permettre de flasher le firm
 Voici les paramètres : ![Burn operation-1](https://github.com/user-attachments/assets/6bd9dc7b-f77a-4c6a-826c-2790847a9364)
 ![Burn operation-2](https://github.com/user-attachments/assets/c071e8a1-3d95-45e2-a220-10bc5275fbb1)
 
+Eteindre et rallumer l'écran après le flash.
+
+Bolino08C le Bolideur.
