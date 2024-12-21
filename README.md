@@ -14,6 +14,10 @@ Si il ne détecte pas, l'allumage est long est la valeur de l'AFR reste à 0.
 * Le parmètrage du second port série doit-être en msDroid
 ![image](https://github.com/user-attachments/assets/14a3e357-c538-49df-a5b7-f7031fd2a044)
 
+Si tout est respecté :
+![471203869_9055712401156151_1738117031796719000_n](https://github.com/user-attachments/assets/7e1798c5-eedd-479a-b4a8-7679cb8cd56a)
+
+
 Je fournis ESP FLASH TOOL DOWNLOAD TOOL V3.9.7 pour permettre de flasher le firmware.
 
 Voici les paramètres : ![Burn operation-1](https://github.com/user-attachments/assets/6bd9dc7b-f77a-4c6a-826c-2790847a9364)
