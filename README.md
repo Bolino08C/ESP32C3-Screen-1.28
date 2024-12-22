@@ -7,7 +7,7 @@ Lien vers l'écran que j'ai utilisé : https://fr.aliexpress.com/item/1005006623
 
 Fonctionnement de l'écran :
 * A l'allumage il tente une connection avec le AirBear 3 fois. 
-Si il ne détecte pas, l'allumage est long est la valeur de l'AFR reste à 0.
+Si il ne détecte pas, l'allumage est long et la valeur de l'AFR reste à 0.
 * En cas d'arrêt du Speeduino et remise en route, l'écran redémarre et tente de se reconnecter 3 fois.
 (Exemple : la voiture cale, tu redémarre. L'écran redémarre aussi.)
 * Le AirBear connecté au second port Série (Serial2 ou 3 suivant le CPU), doit-être paramétré avec le Type de connection Bluetooth BLE.
